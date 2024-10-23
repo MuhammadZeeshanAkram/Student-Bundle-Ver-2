@@ -113,3 +113,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Flutter** - The UI toolkit for building natively compiled applications.
 **Firebase** - Backend services for web and mobile apps.
 **Google ML Kit** - On-device machine learning for mobile developers.
+
+##Before Refactoring
+https://github.com/user-attachments/assets/ef0ddb93-b8de-4512-b892-1cff1e3469ea
+
+##After Refactoring
+https://github.com/user-attachments/assets/89245a7c-b391-4c44-8a11-44d5fc05a851
+
