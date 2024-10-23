@@ -1,0 +1,4 @@
+backend/
+build/
+.dart_tool/
+*.apk
